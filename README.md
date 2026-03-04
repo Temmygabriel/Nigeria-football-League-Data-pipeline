@@ -100,7 +100,7 @@ African sports analytics has massive untapped potential — and this is the star
 
 The cleaned dataset is located in:
 
-`data/processed/npfl_2023_24_structured_data.csv
+`data/processed/npfl_2023_24_structured_data.csv`
 
 It includes:
 
@@ -115,3 +115,24 @@ Structured numeric fields ready for analysis
 Commercial metadata (kit & shirt sponsors)
 
 This dataset serves as the foundation for downstream analysis and BI development.
+
+
+📊 Business Intelligence & Visualization Layer
+
+After structuring the dataset, I developed an interactive Power BI dashboard using the processed CSV file located in:
+
+`data/processed/npfl_2023_24_structured_data.csv`
+
+The dashboard explores:
+
+League performance distribution
+
+Goals scored vs goals conceded analysis
+
+Win percentage comparison
+
+Stadium capacity impact analysis
+
+Commercial patterns (kit & shirt sponsors)
+
+This transforms the dataset from structured data into actionable insight.

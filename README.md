@@ -94,3 +94,24 @@ Structure the dataset.
 Then extract insight.
 
 African sports analytics has massive untapped potential — and this is the starting point.
+
+
+📊 Final Structured Dataset
+
+The cleaned dataset is located in:
+
+data/processed/npfl_2023_24_structured_data.csv
+
+It includes:
+
+Team performance metrics
+
+Engineered Win Percentage
+
+Cleaned stadium capacity data
+
+Structured numeric fields ready for analysis
+
+Commercial metadata (kit & shirt sponsors)
+
+This dataset serves as the foundation for downstream analysis and BI development.

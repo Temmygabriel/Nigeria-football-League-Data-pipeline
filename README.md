@@ -100,7 +100,7 @@ African sports analytics has massive untapped potential — and this is the star
 
 The cleaned dataset is located in:
 
-data/processed/npfl_2023_24_structured_data.csv
+`data/processed/npfl_2023_24_structured_data.csv
 
 It includes:
 
